@@ -15,4 +15,7 @@ My most favorite is for this [class](http://jeffgoldsmith.com/DSI/index.html)
 I like the [about page](about.html)
 
 ## Here's a picture
+
+This cow lives in Germany. Her name is Sally.
+
 <img src="images/desktop.png" style="width:75%">
