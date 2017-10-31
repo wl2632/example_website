@@ -1,11 +1,9 @@
 ---
-title: "About myself"
+title: "CV"
+author: "Weijie Liu"
+date: "October 31, 2017"
+output: html_document
 ---
-
-
-My name is Weijie Liu and I'm a master student in Columbia school of public health, major in biostatistics.
-
-My academic and professional experience is below:
 
 ## Education
 2013-2017 Shanghai University of Finance and Economics
@@ -18,4 +16,5 @@ My academic and professional experience is below:
 2016.8-2016.10 Investment Banking Intern at CICC
 
 2015.8-2015.11 Analyst Intern at CNOOC
+
 
